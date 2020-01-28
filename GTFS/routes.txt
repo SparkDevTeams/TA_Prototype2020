@@ -1,0 +1,104 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+006c330,1,120,SL,3,A92023,ffffff
+046394b,1,,36-LLV2,3,007DBD,ffffff
+07f77e5,1,,37,3,613FA6,ffffff
+0819cee,1,200,Cutler Bay Local,3,0D7215,ffffff
+0ae1ca5,1,27,A,3,007DBD,ffffff
+0ebadf9,1,HIAMAR,City of Hialeah Transit (Marlin),3,0071CA,ffffff
+13dca22,1,,40,3,0071CA,ffffff
+1501071,1,NBAYVL,City of North Bay Village Mini Bus,3,0D7215,ffffff
+152ef8a,1,MB,- N Beach Loop,3,A92023,ffffff
+17f6401,1,77,B,3,007DBD,ffffff
+1c8cf18,1,,204,3,CC9B00,ffffff
+243ccbc,1,North,Miami Beach Line C-Line,3,066A40,ffffff
+251f8a3,1,,288,3,CC9B00,ffffff
+286a500,1,77,OL,3,A92023,ffffff
+2dee553,1,,102,3,007DBD,ffffff
+309c96e,1,20,B,3,007DBD,ffffff
+34945f3,1,NOMORG,City of North Miami Orange,3,0D7215,ffffff
+35bfbae,1,,101,3,613FA6,ffffff
+35ea41b,1,,93,3,cc9b00,ffffff
+385206a,1,MMO,Brickell Loop,3,AD0101,ffffff
+388feec,1,,3,3,A92023,ffffff
+39d4fc9,1,MIASPG,City of Miami Springs Free-Bee,3,0D7215,ffffff
+3b3a1b6,1,11,B,3,A92023,ffffff
+3c6ef8d,1,95,LL Golden Glades Downtown Express,3,CC9B00,ffffff
+42dd76a,1,TRNB,Tri-Rail,3,006c86,ffffff
+435007b,1,107,SL,3,A92023,ffffff
+43febf4,1,17,SL,3,A92023,ffffff
+46095fc,1,Homestead,Downtown Trolley,3,066A40,ffffff
+4695e4b,1,77,A,3,007DBD,ffffff
+46c003f,1,Metrorail,Green Line,3,ad0101,ffffff
+47ce6c1,1,,39,3,CC9B00,ffffff
+4eeaccf,1,,24,3,007DBD,ffffff
+510f3d3,1,20,A,3,007DBD,ffffff
+52daeec,1,,54,3,613FA6,ffffff
+53d8c35,1,PALPNR,Village of Palmetto Bay Park & Ride,3,CC9B00,ffffff
+53fb1f1,1,MMO,Omni Loop,3,AD0101,ffffff
+59413e1,1,,35,3,613FA6,ffffff
+5c07be1,1,11,A,3,A92023,ffffff
+5d7bf43,1,107,LL,3,007DBD,ffffff
+6032dc0,1,COM,Trolley PORT,3,A92023,ffffff
+623ffce,1,HIAFLA,City of Hialeah Transit (Flamingo),3,0071CA,ffffff
+625ce0f,1,PALBYA,Village of Palmetto Bay A,3,0D7215,ffffff
+62b80c2,1,,79,3,AD0101,ffffff
+66598e0,1,MGDORG,City of Miami Gardens Orange,3,0D7215,ffffff
+6c2aff7,1,MGDRED,City of Miami Gardens RED,3,066A40,ffffff
+6d7da5d,1,Doral,Trolley 4,3,066A40,ffffff
+7387918,1,95,I-95 Golden Glades Express,3,CC9B00,ffffff
+76a605e,1,,8 ,3,007DBD,ffffff
+8392054,1,COM-,Trolley Coral Way,3,A92023,ffffff
+884d067,1,COM,NW 2nd,3,A92023,ffffff
+8929fa3,1,,135,3,007DBD,ffffff
+8d17731,1,,51,3,A92023,ffffff
+9091f4b,1,TRSB,Tri-Rail,3,006c86,ffffff
+914ccd1,1,COM,Trolley Brickell,3,A92023,ffffff
+926cc90,1,,200-delete,3,0D7215,ffffff
+9285918,1,North,Miami Beach Line A-Line,3,0D7215,ffffff
+931287e,1,,19 ,3,A92023,ffffff
+931adba,1,17,LL,3,007DBD,ffffff
+93cc6fe,1,,73,3,A92023,ffffff
+95d0551,1,WESMIA,City of West Miami Shuttle,3,0D7215,ffffff
+98ca078,1,,27,3,A92023,ffffff
+98eaf43,1,,287,3,CC9B00,ffffff
+9986cc1,1,Coral,Gables Trolley,3,A92023,ffffff
+9bbda60,1,,104,3,007DBD,ffffff
+9c2ca30,1,MSHEST,Miami Shores Village East,3,0D7215,ffffff
+9c6ab1c,1,,72,3,0071CA,ffffff
+9d2fa90,1,COM,LITTLE HAVANA,3,A92023,ffffff
+a177771,1,,20,3,A92023,ffffff
+a3b2648,1,,38,3,A92023,ffffff
+a43595e,1,,22,3,007DBD,ffffff
+a45ea83,1,,11,3,A92023,ffffff
+a4dce54,1,,119,3,A92023,ffffff
+a555f42,1,MIA,Airport People Mover,3,AD0101,ffffff
+a80b2f2,1,,33,3,007DBD,ffffff
+ac10d14,1,36,LL-delete,3,007DBD,ffffff
+b0b5048,1,120,LL,3,A92023,ffffff
+b0d059b,1,95,SL Golden Glades DowntownExpress,3,CC9B00,ffffff
+b2e6dff,1,95,LL Golden Glades Civic Center Express,3,CC9B00,ffffff
+b698cb9,1,MGDBLU,City of Miami Gardens Blue,3,0D7215,ffffff
+b7e8104,1,COM,Trolley Allapattah,3,A92023,ffffff
+b86d214,1,,34,3,CC9B00,ffffff
+b977784,1,,88,3,A92023,ffffff
+babe18f,1,,183,3,A92023,ffffff
+bc98705,1,,9,3,A92023,ffffff
+c584199,1,DLOOP1,City of Doral Trolley (Rt. 1),3,007DBD,ffffff
+cdf1c5e,1,DLOOP2,City of Doral Trolley (Rt. 2),3,066A40,ffffff
+cdfe9c4,1,,12 ,3,A92023,ffffff
+cfbb9b8,1,MB,- Collins Express,3,A92023,ffffff
+d9119cb,1,MMI,Metromover Inner Loop,3,AD0101,ffffff
+d96025e,1,27,B,3,007DBD,ffffff
+dbc0ddd,1,95,SL Golden Glades Civic Center Express,3,CC9B00,ffffff
+dc73c12,1,Metrorail,Orange,3,A92023,ffffff
+e0d7e66,1,SURSID,Town of Sufside Shuttle,3,CC9B00,ffffff
+e483c30,1,,7,3,A92023,ffffff
+e616cb1,1,,62,3,A92023,ffffff
+e65830d,1,,272,3,CC9B00,ffffff
+e7cbdc7,1,Metrorail,OL,3,A92023,ffffff
+f2521cb,1,North,Miami Beach Line B-Line,3,066A40,ffffff
+f75c2aa,1,Homestead,East/West Trolley,3,066A40,ffffff
+f905e48,1,MB,- South Beach Loop,3,A92023,ffffff
+f9edcae,1,DLOOP3,City of Doral Trolley (Rt. 3),3,066A40,ffffff
+fada273,1,,137,3,007DBD,ffffff
+fd04dec,1,36,SL,3,A92023,ffffff
